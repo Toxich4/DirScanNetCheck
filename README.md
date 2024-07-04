@@ -16,7 +16,7 @@ DirScanNetCheck is a Python-based tool designed to scan a directory for files, l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DirScanNetCheck.git
+   git clone https://github.com/Toxich4/DirScanNetCheck.git
     ```
 2. Navigate to the project directory:
     ```bash
