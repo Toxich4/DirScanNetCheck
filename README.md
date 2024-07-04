@@ -42,7 +42,7 @@ python dir_scan_net_check.py [options]
 - **--help**: Display help information.
 
 ## Examples
-# Basic Usage
+### Basic Usage
 Scan the current directory and check file accessibility with default settings:
 ```bash
 python dir_scan_net_check.py
